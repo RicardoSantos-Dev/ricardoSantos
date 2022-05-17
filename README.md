@@ -7,7 +7,7 @@
   </div>
 
 
-<h4>Atualmente Estudando Desenvolvimento Full-Stack Pelo Projeto DEVinHouse Pelo SENAI</h4>
+<h4>Atualmente Estudando Desenvolvimento Full-Stack Pelo Projeto DEVinHouse No SENAI</h4>
     
 
 <div>
