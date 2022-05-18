@@ -1,12 +1,6 @@
 <h1>Olá, Meu Nome é Ricardo Silva Santos</h1>
 
 
-<div align="center">
-    <a href="https://github.com/RicardoSantos-Dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RicardoSantos-Dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </div>
-
-
 <h4>Atualmente Estudando Desenvolvimento Full-Stack Pelo Projeto DEVinHouse No SENAI</h4>
     
 
