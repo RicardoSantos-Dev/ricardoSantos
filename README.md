@@ -1,7 +1,7 @@
 <h1>Olá, Meu Nome é Ricardo Silva Santos</h1>
 
 
-<h4>Atualmente Estudando Desenvolvimento Full-Stack Pelo Projeto DEVinHouse No SENAI</h4>
+<h4>Atualmente Estudando Desenvolvimento Full-Stack</h4>
     
 
 <div>
